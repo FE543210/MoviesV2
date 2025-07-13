@@ -362,3 +362,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MoviesV2/appsettings.json
+/.gitignore
+/MoviesV2/appsettings.Development.json
